@@ -6,8 +6,6 @@ I'm **Daniel Paulo** — a hands-on mobile & web developer building practical pr
 
 Tagline: Turning class projects into real apps — learning fast, shipping often. 🚀
 
-[Visit my GitHub profile](https://github.com/DanielFFPaulo) • ![avatar](https://avatars.githubusercontent.com/u/188444938?v=4)
-
 ## About Me
 
 ### About Me
