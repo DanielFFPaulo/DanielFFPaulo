@@ -62,7 +62,7 @@ kotlin,java,js,ts,py,androidstudio,nodejs,git,github,gradle,maven,html,css,vscod
 ### GitHub Stats 📊
 
 - Public repositories: **12**
-- Followers: **1**
+- Followers: **10**
 - Following: **1**
 
 Badges & cards:
