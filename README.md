@@ -40,11 +40,6 @@ kotlin,java,js,ts,py,androidstudio,nodejs,git,github,gradle,maven,html,css,vscod
    - Primary language: Kotlin
    - Notes: Mobile app / coursework project showcasing Android/Kotlin skills
 
-3. [animeAlleyButBetter](https://github.com/DanielFFPaulo/animeAlleyButBetter) (fork)
-   - Description: "Para quem gosta de novelas" (forked project)
-   - Stars: 0 • Forks: 0
-   - Primary language: (varies) — forked repository
-
 4. [VirtualAssistantWebsite](https://github.com/DanielFFPaulo/VirtualAssistantWebsite)
    - Description: Front-end for a Virtual Assistant (TypeScript)
    - Stars: 0 • Forks: 0
@@ -70,8 +65,7 @@ Badges & cards:
 - ![GitHub followers](https://img.shields.io/badge/followers-1-blue?logo=github)
 - ![Public repos](https://img.shields.io/badge/public_repos-12-green?logo=github)
 
-Profile stats cards (live):
-- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFFPaulo&layout=compact&theme=default)
+
 
 
 ## Recent Activity
